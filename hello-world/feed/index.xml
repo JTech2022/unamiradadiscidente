@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comentarios en unamiradadiscidente	</title>
-	<atom:link href="http://unamiradadiscidente.online/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://unamiradadiscidente.online</link>
+	Comentarios en: Bienvenido/as	</title>
+	<atom:link href="http://unamiradadiscidente.online/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>http://unamiradadiscidente.online/hello-world/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
 	<description>Viendo la vida de una Mirada diferente.</description>
 	<lastBuildDate>Sun, 30 Oct 2022 11:19:24 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>
-		Comentario en Bienvenido/as por Seguidsor		</title>
+		Por: Seguidsor		</title>
 		<link>http://unamiradadiscidente.online/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[Seguidsor]]></dc:creator>
